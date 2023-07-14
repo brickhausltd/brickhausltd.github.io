@@ -2,7 +2,7 @@
   <head>
     <title> Brick!@#$ Haus Limited - Assette Publisher</title>
   </head>
-  <body
+  <body>
     BRICK!@#$ HAUS Ltd - 2023] right place, wrong time. under construction
   </body>
 </html>

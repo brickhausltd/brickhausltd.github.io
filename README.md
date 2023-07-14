@@ -3,6 +3,6 @@
     <title> Brick!@#$ Haus Limited - Assette Publisher</title>
   </head>
   <body>
-    BRICK!@#$ HAUS Ltd - 2023] right place, wrong time. under construction
+    <a href="/index.html">[INDEX]</a>
   </body>
 </html>
